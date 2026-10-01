@@ -1,0 +1,31 @@
+REAL DATASET
+     ↓
+1. Understand Data
+     ↓
+2. Data Cleaning
+     ↓
+3. EDA
+     ↓
+4. Feature Engineering
+     ↓
+5. Define X / y
+     ↓
+6. Train / Test Split
+     ↓
+7. Preprocessing
+     ↓
+8. Baseline
+     ↓
+9. Model Training
+     ↓
+10. Validation
+     ↓
+11. Hyperparameter Tuning
+     ↓
+12. Model Evaluation
+     ↓
+13. Model Interpretation
+     ↓
+14. Save Model
+     ↓
+15. Inference

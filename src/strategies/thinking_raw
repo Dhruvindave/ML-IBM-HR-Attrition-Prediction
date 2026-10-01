@@ -1,0 +1,51 @@
+/main_new
+
+HourlyRate range: 30-100
+DailyRate range: 102-1499
+MonthlyRate range: 2094-26999
+
+
+Observations
+Higher paying employees has all three are at the upper bounds
+
+Dent in any one is impacting the Monthly MonthlyIncome
+
+Impact analysis:
+    Question: Which rate is impacting salary mostly?
+    
+
+
+
+
+
+
+
+
+
+/test_learning
+Income is categorical variable
+    Income <= 50K
+    Income > 50k
+
+
+What I am thinking
+    1) Group data based on this category
+
+    Than additional data analysis
+        If income less than 50k
+            what's the reason behind that
+                1) is race?
+                2) is education?
+                3) is gender?
+                4) is workclass?
+                5) is occupation
+    
+
+    What if I narrow down more and group data based on the workclass.
+    rather than income.
+    so I can get salary ranges
+
+        Now classification
+            1) what's their income
+            2) What's their education and education-num
+            3) what's their occupation
